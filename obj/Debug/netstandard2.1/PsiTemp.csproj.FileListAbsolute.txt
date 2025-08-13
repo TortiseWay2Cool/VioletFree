@@ -1,0 +1,676 @@
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.deps.json
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.pdb
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AA.Mothership.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ALINE.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Cinemachine.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Facebook.Wit.Dictation.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\FbxBuildTestAssets.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Common.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Log.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Unity.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\geometry3Sharp.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\KID.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerCore.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerExamples.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Hub.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.BuiltInTimer.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Chess.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Dictation.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LightTraits.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LiveUnderstanding.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Shapes.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.ShapesConduit.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.TTSVoices.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Conduit.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Facepunch.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Steamworks.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UI.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Facepunch.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Steamworks.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UnityPlugin.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Security.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NanoSockets.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NativeGallery.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NavMeshComponents.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.Addressables.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Nobi.UiRoundedCorners.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.AudioManager.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.LipSync.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Platform.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Spatializer.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.VR.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonRealtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PlayFab.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Addressables.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.MemoryProfiler.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Splines.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Timeline.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Oculus.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VYaml.Core.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\websocket-sharp.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ZString.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.xml
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.xml
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+F:\Downloads\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.AssemblyReference.cache
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfoInputs.cache
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfo.cs
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.CoreCompileInputs.cache
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.Up2Date
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.dll
+F:\Downloads\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.pdb
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.deps.json
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.pdb
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Cinemachine.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Facebook.Wit.Dictation.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\FbxBuildTestAssets.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\KID.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerExamples.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Hub.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.BuiltInTimer.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Chess.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Dictation.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LightTraits.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LiveUnderstanding.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Shapes.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.ShapesConduit.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.TTSVoices.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Conduit.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Facepunch.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Steamworks.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UI.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Facepunch.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Steamworks.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UnityPlugin.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.Addressables.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Nobi.UiRoundedCorners.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.AudioManager.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.LipSync.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Spatializer.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.MemoryProfiler.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Oculus.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.AssemblyReference.cache
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfoInputs.cache
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfo.cs
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.CoreCompileInputs.cache
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.Up2Date
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.dll
+C:\Users\gradd\Downloads\New folder\New folder\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.pdb
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.deps.json
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PsiTemp.pdb
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Cinemachine.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Facebook.Wit.Dictation.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\FbxBuildTestAssets.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\KID.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MeshBakerExamples.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Hub.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.BuiltInTimer.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Chess.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Dictation.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LightTraits.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.LiveUnderstanding.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.Shapes.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.ShapesConduit.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.Voice.Samples.TTSVoices.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Conduit.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Facepunch.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.Platform.Steam.Steamworks.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UI.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Facepunch.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Modio.UI.Examples.Steam.Steamworks.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\modio.UnityPlugin.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.Addressables.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Nobi.UiRoundedCorners.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.AudioManager.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.LipSync.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.Spatializer.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.MemoryProfiler.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.Oculus.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.AssemblyReference.cache
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfoInputs.cache
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.AssemblyInfo.cs
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.CoreCompileInputs.cache
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.csproj.Up2Date
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.dll
+C:\Users\gradd\Downloads\PsiTemp (2)\PsiTemp\PsiTemp\obj\Debug\netstandard2.1\PsiTemp.pdb
